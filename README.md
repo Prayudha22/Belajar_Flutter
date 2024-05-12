@@ -1,16 +1,14 @@
-# aplikasi_flutter_pertamaku
+# aplikasi_flutter_pertamaku.
 
-A new Flutter project.
+Program ini dibuat untuk mata kuliah Pemrograman Mobile 2 
 
-## Getting Started
+## Hasil Running
 
-This project is a starting point for a Flutter application.
+# Data Produk
+![Gambar1](Screnshoot/dataproduk.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Detail Produk
+![Gambar2](Screnshoot/detailproduk.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### TERIMAKASIH
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
